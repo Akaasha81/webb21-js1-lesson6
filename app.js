@@ -1,4 +1,4 @@
-//JS 1 lesson 6
+//JS 1 lesson 6 kanske
 
 class Animal {
 
